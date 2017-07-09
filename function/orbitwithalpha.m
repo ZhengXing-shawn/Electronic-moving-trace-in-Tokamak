@@ -1,3 +1,7 @@
+% calculate the centre of electrinic moving trace in tokamak at non-othogonal 
+% reference to White R B. The theory of toroidally confined plasmas[M].World Scientific Publishing Co Inc, 2013.
+% all the follows functions was base at white books,in which more detail can be found. 
+
 
 function [dy] = orbitwithalpha( t,y )
 %UNTITLED Summary of this function goes here
